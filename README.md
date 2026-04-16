@@ -294,10 +294,8 @@ stock-dashboard/
 
 ## 👨‍💻 Author
 
-- **Your Name**  
-- Email: your.email@example.com  
-- GitHub: github.com/yourusername  
-- LinkedIn: linkedin.com/in/yourusername  
+- **D K VIJENDRA KUMAR** 
+- GitHub: https://github.com/dk9480 
 
 
 ## 🙏 Acknowledgments
@@ -306,4 +304,4 @@ stock-dashboard/
 - FastAPI for excellent framework documentation  
 - React and Chart.js communities  
 
-### Backend  
+
