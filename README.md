@@ -144,7 +144,7 @@ Create a `.env` file in the frontend directory (optional):
 REACT_APP_API_URL=http://localhost:8000
 ```
 
-## 📸 Screenshots
+## 📸 Dashboard Screenshots
 
 ### Main Dashboard
 ![Main Dashboard](images/maindashboard.png)
